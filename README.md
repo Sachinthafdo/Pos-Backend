@@ -9,7 +9,7 @@ This project was created as a learning experience to understand how to work with
 
 ## Project Links
 - **GitHub Repository (backend)**: [Pos-Backend](https://github.com/Sachinthafdo/Pos-Backend)
-- **GitHub Repository (frontend)**: [Pos-Backend](https://github.com/Sachinthafdo/Pos-Frontend)
+- **GitHub Repository (frontend)**: [Pos-Frontend](https://github.com/Sachinthafdo/Pos-Frontend)
 - **Swagger UI**: `http://localhost:8080/swagger-ui/index.html`
 
 ## Security Model
